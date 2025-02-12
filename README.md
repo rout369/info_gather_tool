@@ -38,9 +38,9 @@ python gensisaudit.py
 ## Screenshot
  <img src="genesis/Screenshot (25).png"><br/>
  <img src="genesis/Screenshot (27).png"><br/>
- <img src="genesis/Screenshot (27).png"><br/>
- <img src="genesis/Screenshot (27).png"><br/>
- <img src="genesis/Screenshot (27).png"><br/>
+ <img src="genesis/Screenshot (29).png"><br/>
+ <img src="genesis/Screenshot (32).png"><br/>
+ <img src="genesis/Screenshot (34).png"><br/>
  <img src="genesis/Screenshot (27).png"><br/>
  
 
