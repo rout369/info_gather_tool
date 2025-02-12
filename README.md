@@ -19,42 +19,27 @@ pip install -r requirements.txt
 Commands:
 
 ```bash
-git clone https://github.com/rout369/vulntron.git
-chmod 755 -R vulntron
-cd vulntron
-python3 vulntron.py  
+git clone https://github.com/rout369/info_gather_tool.git  
 ```
 ## Usage
 Basic usage:
 
 ```bash
-python3 vulntron.py --help-info
+python gensisaudit.py
 ```
-For the Xss_Scanner:
-```bash
-python3 xssxplore.py --help
-python3 xssxplore.py -u http://testphp.vulnweb.com
-```
-
-
-## Advanced usage
-For the Xss_Scanner:
-```bash
-python3 xssxplore.py --help
-```
-
 ## Main features
 
-* to add
+* This tool can be used to gather information about the victim machine (laptop or pc)
+* This gather information like system information , file meta data , event logs , also the background process run on the ram
+* this used to gather all the files which is used and modified by the victim with in 24 hours
+* This tool is used to find recent 5 login of the system etc.
 
 
 ## Screenshot
-
+ <img src="genesis/Screenshot(25).png" height="200"><br/>
 
 
 ## Note
-* It doesn't support DOM
-* Also downlode Npcap , perl(if you using window) , nikto(clone it using git or downlode ZIP file (i recommend that))
-* All the tools are in developing phase
+* I am still up garding this tool like in future i trid to implement a recovry system which can recover deleted files or sofware from the system
   
 
