@@ -36,7 +36,7 @@ python gensisaudit.py
 
 
 ## Screenshot
- <img src="genesis/Screenshot(25).png" height="200"><br/>
+ <img src="genesis/Screenshot (25).png"><br/>
 
 
 ## Note
