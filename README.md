@@ -3,7 +3,7 @@
 
 <p align="center">
  <img src="genesis/awesome-angry-wolf-logo-design-vector-46214405.jpg" height="200"><br/>
-Vulntron using python 3.7<br/>
+ BloodHowl<br/>
 
 
 ## Installing
